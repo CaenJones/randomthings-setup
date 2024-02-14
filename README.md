@@ -3,7 +3,7 @@ This guide is here to teach you how to use Kasm and the randomthings platform!
 
 ## Install Guide
 ```
-curl https://github.com/CaenJones/randomthings-setup/blob/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
+curl -O https://github.com/CaenJones/randomthings-setup/blob/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
 ```
 
 ## Kasm Navigation
