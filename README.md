@@ -1,6 +1,11 @@
 # Welcome to RandomThings Isolated Infra!	
 This guide is here to teach you how to use Kasm and the randomthings platform!
 
+## Install Guide
+```
+curl https://github.com/CaenJones/randomthings-setup/blob/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
+```
+
 ## Kasm Navigation
 In order to upload files for testing, just head to the top of kasm and hit the server icon. That way, you will get 
 a full index of all system files with the option to upload or delete files. Git is also provided so you may 
