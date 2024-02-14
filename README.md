@@ -8,7 +8,7 @@ a full index of all system files with the option to upload or delete files. Git 
 
 ## Cosmos SSO
 If at any time you wish to use or delete another instance, you are welcome to head back to the
-[Cosmos SSO](https://caen.bobignou.red) the sso dashboard also gives users acess to Constilation
+Cosmos SSO the sso dashboard also gives users acess to Constilation
 and Nextcloud for remote access and file storage. 
 
 ## Questions / Concerns
